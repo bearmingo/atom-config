@@ -1,0 +1,32 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "91d24d59-49d1-4ab3-9025-fae1dae7f3be"
+  "autocomplete-python":
+    extraPaths: "/Library/Python/2.7/site-packages/"
+    pythonPaths: "/usr/bin/python"
+    useSnippets: "all"
+  core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "*.pyc"
+    ]
+    openEmptyEditorOnStart: false
+  editor:
+    invisibles: {}
+    scrollPastEnd: true
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "e9876ede-97a3-d88a-f103-9cdcd0d66b1b"
+  linter:
+    showErrorPanel: false
+  "todo-show": {}
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
